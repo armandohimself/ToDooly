@@ -27,18 +27,17 @@ Since the company has shut down, the **website is no longer live**. However, you
 Our **client-side React Native app is still live**, but only through this link:  
 🔗 **[ToDooly App](https://app.todooly.com/home)** *(The mobile experience is the same, but I’m unsure how much longer it will be available.)*  
 
-If the archived link doesn’t load, I’ve captured **screenshots as PDFs** for easy viewing:  
+
+> If the archived link doesn’t load, I’ve captured **screenshots as PDFs** for easy viewing:
 
 📄 **[ToDooly Home Page](https://github.com/user-attachments/files/18971268/ToDooly_WebArchive.pdf)**  
 📄 **[How It Works Page](https://github.com/user-attachments/files/18971274/ToDooly_HowItWorksPage_WebArchive.pdf)**  
 
-### **Locations Dropdown:**  
+#### **Locations Dropdown:**  
 📄 **[Detroit Page](https://github.com/user-attachments/files/18971306/ToDooly_DetroitPage_WebArchive.pdf)**  
 📄 **[Houston Page](https://github.com/user-attachments/files/18971308/ToDooly_HoustonPage_WebArchive.pdf)**  
 
 📄 **[Apply Page](https://github.com/user-attachments/files/18971381/ToDooly_ApplyPage_WebArchive.pdf)**
-
 📄 **[About Page](https://github.com/user-attachments/files/18971383/ToDooly_AboutPage_WebArchive.pdf)**
-
 📄 **[Blog Page](https://github.com/user-attachments/files/18971384/ToDooly_BlogPage_WebArchive.pdf)**
 
